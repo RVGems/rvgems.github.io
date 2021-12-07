@@ -1,2 +1,2 @@
-# [RISC-V Gems Website](rvgems.github.io)
+# [RISC-V Gems Website](https://rvgems.github.io/)
 
